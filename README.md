@@ -30,7 +30,8 @@
 </a>
 
 ## Linguagens e Tecnologias:
-
+  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img width-15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <div>
   
 </div>
