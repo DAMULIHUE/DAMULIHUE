@@ -16,10 +16,15 @@
 </p>
 
 <div align="center">  
-    <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAMULIHUE&theme=tokyonight" />
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAMULIHUE&theme=tokyonight" />
   <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAMULIHUE&theme=tokyonight" />
   <img width=60% align="center"  src="https://streak-stats.demolab.com?user=DAMULIHUE&theme=tokyonight&hide_border=true" />
 </div>
 
-[![TWITTER](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com&logo=Twitter])](https://twitter.com/DAMU_TWIT)
+## REDES SOCIAIS
 
+
+<a href="https://twitter.com/DAMU_TWIT"> 
+  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com&logo=Twitter" 
+  target="blank">
+</a>
