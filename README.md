@@ -28,3 +28,9 @@
   <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com&logo=Twitter" 
   target="blank">
 </a>
+
+## Linguagens e Tecnologias:
+
+<div>
+  
+</div>
