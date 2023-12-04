@@ -1,16 +1,23 @@
-### Hi there 👋
+<p>
 
-<!--
-**DAMULIHUE/DAMULIHUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Meu nome é Lihuê Ferreira Gomes Oliveira, nasci em Fortaleza-CE, amo programar de tudo um pouco.
+</p>
+<br>
 
-Here are some ideas to get you started:
+# <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       Dados do GitHub:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DAMULIHUE&bg_color=0d1117&color=0000FF&line=00BFFF&point=000080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManoKondz&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+    <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoKondz&theme=tokyonight" />
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoKondz&theme=tokyonight" />
+  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=ManoKondz&theme=tokyonight&hide_border=true" />
+</div>
+
