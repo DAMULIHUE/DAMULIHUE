@@ -21,4 +21,5 @@
   <img width=60% align="center"  src="https://streak-stats.demolab.com?user=DAMULIHUE&theme=tokyonight&hide_border=true" />
 </div>
 
-[![TWITTER]([https://img.shields.io/twitter/url](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FDAMU_TWIT)https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FDAMU_TWIT)](https://twitter.com/DAMU_TWIT)
+[![TWITTER](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com&logo=Twitter])](https://twitter.com/DAMU_TWIT)
+
