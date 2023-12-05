@@ -26,13 +26,30 @@
 
 <a href="https://twitter.com/DAMU_TWIT"> 
   <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com&logo=Twitter" 
-  target="blank">
+  target="_blank">
 </a>
 
 ## Linguagens e Tecnologias:
-  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img width-15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+###Tecnologias
 <div>
+  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+###Linguagens
+<div>
+  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+
+###Aprendendo
+<div>
+  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  
   
 </div>
 
