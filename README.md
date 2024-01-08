@@ -2,7 +2,7 @@
 
   Meu nome é Lihuê Ferreira Gomes Oliveira, tenho 14 anos, nasci em Fortaleza-CE, amo programar de tudo um pouco.
 
-  Como eu disse, gosto de maxer com tudo um pouco, modelos ed, física, edição de vídeo e o que der pra fazer com um 
+  Como eu disse, gosto de maxer com tudo um pouco, modelos 3D, física, edição de vídeo e o que der pra fazer com um 
   notebook eu to dentro. Gosto de Interagir com pessoas em jogos online e treinar meu inglês enquanto jogo.
 </p>
 <br>
