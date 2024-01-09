@@ -6,6 +6,9 @@
   Apreciando a interação social, destaco meu gosto por participar de jogos online, os quais também 
   aproveito como meio de aprimorar meu domínio da língua inglesa. Estou sempre disposto a aprender e 
   aprofundar meu conhecimento em diferentes disciplinas.
+
+<img width=5% src=" gifs-de-programador-10.gif"/>
+ 
 </p>
 <br>
 
