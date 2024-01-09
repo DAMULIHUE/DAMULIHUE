@@ -1,6 +1,5 @@
 <p>
-   ![gifs-de-programador-10](https://github.com/DAMULIHUE/DAMULIHUE/assets/152817849/0227ba75-d9de-4b68-9988-b7972876085c)
-
+   
    Meu nome é Lihuê Ferreira Gomes Oliveira, tenho 14 anos e sou natural de Fortaleza-CE. Desenvolvo habilidades em diversas áreas, tais como
    programação, modelagem 3D, física e edição de vídeo. Demonstro interesse em explorar diversas possibilidades utilizando meu notebook.
 
