@@ -1,9 +1,11 @@
 <p>
 
-  Meu nome é Lihuê Ferreira Gomes Oliveira, tenho 14 anos, nasci em Fortaleza-CE, amo programar de tudo um pouco.
+   Meu nome é Lihuê Ferreira Gomes Oliveira, tenho 14 anos e sou natural de Fortaleza-CE. Desenvolvo habilidades em diversas áreas, tais como
+   programação, modelagem 3D, física e edição de vídeo. Demonstro interesse em explorar diversas possibilidades utilizando meu notebook.
 
-  Como eu disse, gosto de maxer com tudo um pouco, modelos 3D, física, edição de vídeo e o que der pra fazer com um 
-  notebook eu to dentro. Gosto de Interagir com pessoas em jogos online e treinar meu inglês enquanto jogo.
+  Apreciando a interação social, destaco meu gosto por participar de jogos online, os quais também 
+  aproveito como meio de aprimorar meu domínio da língua inglesa. Estou sempre disposto a aprender e 
+  aprofundar meu conhecimento em diferentes disciplinas.
 </p>
 <br>
 
@@ -11,22 +13,22 @@
 
 ### Tecnologias
 <div>
-  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img width=20% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+  <img width=20% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  <img width=20% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 
 ### Linguagens
 <div>
-  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width=20% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img width=20% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 </div>
 
 ### Aprendendo
 <div>
-  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width=15% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img width=20% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img width=20% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width=20% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div>
 
 <br>
