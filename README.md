@@ -7,7 +7,7 @@
   aproveito como meio de aprimorar meu domínio da língua inglesa. Estou sempre disposto a aprender e 
   aprofundar meu conhecimento em diferentes disciplinas.
 
-<img width=5% src=" gifs-de-programador-10.gif"/>
+<img width=50% src="gifs-de-programador-10.gif"/>
  
 </p>
 <br>
