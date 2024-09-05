@@ -16,7 +16,6 @@
 
 ### Tecnologias
 <div>
-  <img width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
   <img width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 
