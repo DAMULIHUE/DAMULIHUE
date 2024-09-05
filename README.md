@@ -34,13 +34,6 @@
 
 <br>
 
-## REDES SOCIAIS
-
-<a href="https://twitter.com/DAMU_TWIT"> 
-  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com&logo=Twitter" 
-  target="_blank">
-</a>
-
 <br>
 
 # <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       Dados do GitHub:
