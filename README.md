@@ -1,11 +1,12 @@
 <p>
    
-   Meu nome é Lihuê Ferreira Gomes Oliveira, tenho 14 anos e sou natural de Fortaleza-CE. Desenvolvo habilidades em diversas áreas, tais como
-   programação, modelagem 3D e física. Demonstro interesse em explorar diversas áreas e tecnologias diferentes.
+   Meu nome é Lihuê Ferreira Gomes Oliveira, tenho 14 anos e sou natural de Fortaleza-CE. Atualmente estou me aprofundando em 
+   - Java Script
+   - Html
+   - Css
 
-   Aprecio a interação social, destaco meu gosto por participar de jogos online, os quais também 
-   aproveito como meio de aprimorar meu domínio da língua inglesa. Estou sempre disposto a aprender e 
-   aprofundar meu conhecimento em diferentes disciplinas.
+   Tenho Experiência previa em outras linguagens de programação, mas são conhecimentos
+   extremamente rasos.
 
 </p>
 <br>
