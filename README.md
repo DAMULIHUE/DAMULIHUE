@@ -24,6 +24,7 @@
 <div>
   <img width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg"/>
 </div>
 
 ### Aprendendo
