@@ -5,6 +5,7 @@
    - Java Script
    - Html
    - Css
+   - Git
 </p>
 <br>
 
