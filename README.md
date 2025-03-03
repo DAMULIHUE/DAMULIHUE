@@ -6,6 +6,8 @@
    - Html
    - Css
    - Git
+   - Node
+   - Linux
 </p>
 <br>
 
