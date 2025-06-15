@@ -1,35 +1,33 @@
 <img width=30% align="right" src="./imagens/me.jpeg"/>
-<a href="./traducoes/readme-en.md">english version link</a>
-<p align="left">   
-   
-   Meu nome é Lihuê 
-   Ferreira Gomes Oliveira, 
-   tenho 15 anos e sou 
-   natural de Fortaleza-CE. 
-   Atualmente estou me aprofundando 
-   em: 
-   - Nodejs
-   - C
-   - JS
-   - Git
-   - Linux
 
+<a href="../REAME.md">link da versão portuguesa (portuguese version link)</a>
+<p align="left">   
+
+    Hello, my name is Lihuê Ferreira 
+    Gomes Oliveira and i am 15 years 
+    old, natural from Brasil-CE.
+    Nowadays im studying:
+    - Nodejs
+    - C
+    - JS
+    - Git
+    - Linux
 </p>
 
 
  
 <br>
 
-# Minhas Linguagens e Tecnologias:
+# My programing leanguages and tecnologies:
 
-## Linguagens
+## Programing leanguages:
 <div>
   <img width=10% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img width=10% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img width=10% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
 
-## Aprendendo
+## Learning
 <div>
   <img width=10% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img width=10% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -42,7 +40,7 @@
 <br>
 
 <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> 
-<h1>Dados do GitHub:</h1>
+<h1>Git hub data:</h1>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DAMULIHUE&bg_color=0d1117&color=0000FF&line=00BFFF&point=000080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
