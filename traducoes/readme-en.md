@@ -1,19 +1,21 @@
-<img width=30% align="right" src="../imagens/me.jpeg"/>
-<a href="../README.md">link da versão em português</a>
-<p align="left">
-    
-    Hello, my name is Lihuê Ferreira Gomes Oliveira and 
-    i am 15 years old, natural from Brazil-CE.
-    Nowadays im studying:
-    - Nodejs
-    - C
-    - JS
-    - Git
-    - Linux
-    
-</p>
+<img width=30% align="right" src="./imagens/me.jpeg"/>
+<a href="../README.md">versão em português</a>
+<p align="left">   
+   
+   Meu nome é Lihuê 
+   Ferreira Gomes Oliveira, 
+   tenho 15 anos e sou 
+   natural de Fortaleza-CE. 
+   Atualmente estou me aprofundando 
+   em: 
+   - Nodejs
+   - C
+   - JS
+   - Git
+   - Linux
 
-<br>
+</p>
+ 
 # My programing leanguages and tecnologies:
 
 ## Programing leanguages:
