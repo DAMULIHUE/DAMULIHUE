@@ -12,8 +12,8 @@
     - Linux
     
 </p>
-<br>
 
+<br>
 # My programing leanguages and tecnologies:
 
 ## Programing leanguages:
