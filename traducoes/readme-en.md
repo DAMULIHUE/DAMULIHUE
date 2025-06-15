@@ -1,17 +1,13 @@
 <img width=30% align="right" src="../imagens/me.jpeg"/>
 <a href="../README.md">link da versão em português</a>
-<p align="left">   
-
-    Hello, my name is Lihuê Ferreira 
-    Gomes Oliveira and i am 15 years 
-    old, natural from Brasil-CE.
-    Nowadays im studying:
+Hello, my name is Lihuê Ferreira Gomes Oliveira and i am 15 years 
+old, natural from Brasil-CE.
+Nowadays im studying:
     - Nodejs
     - C
     - JS
     - Git
     - Linux
-</p>
  
 <br>
 
