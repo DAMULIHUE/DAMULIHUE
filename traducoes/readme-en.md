@@ -1,6 +1,6 @@
 <img width=30% align="right" src="../imagens/me.jpeg"/>
 
-<a href="../REAME.md">link da versão em português</a>
+<a href="../README.md">link da versão em português</a>
 <p>   
 
     Hello, my name is Lihuê Ferreira 
