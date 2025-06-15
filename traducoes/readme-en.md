@@ -1,7 +1,7 @@
 <img width=30% align="right" src="../imagens/me.jpeg"/>
 
-<a href="../REAME.md">link da versão portuguesa (portuguese version link)</a>
-<p align="left">   
+<a href="../REAME.md">link da versão em português</a>
+<p>   
 
     Hello, my name is Lihuê Ferreira 
     Gomes Oliveira and i am 15 years 
