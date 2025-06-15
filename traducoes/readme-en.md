@@ -1,4 +1,4 @@
-<img width=30% align="right" src="./imagens/me.jpeg"/>
+<img width=30% align="right" src="../imagens/me.jpeg"/>
 
 <a href="../REAME.md">link da versão portuguesa (portuguese version link)</a>
 <p align="left">   
@@ -13,8 +13,6 @@
     - Git
     - Linux
 </p>
-
-
  
 <br>
 
