@@ -42,8 +42,7 @@
 
 <div align="center">  
   <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAMULIHUE&theme=tokyonight" /> 
-  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=DAMULIHUE&theme=tokyonight&hide_border=true" />
-  
+
 </div>
 
 
